@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+data/
+outputs*/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
