@@ -12,3 +12,8 @@ checkpoints/
 *.pt
 *.bin
 *.safetensors
+
+# keep empty dirs on GitHub
+!data/.gitkeep
+!outputs/.gitkeep
+!outputs_fast/.gitkeep
